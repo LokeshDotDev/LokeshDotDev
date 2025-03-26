@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/C4D12AQE6YzXUFTjnsA/article-cover_image-shrink_600_2000/0/1620202204598?e=2147483647&v=beta&t=O_SLzSvMEWZLv68CRpzPnzC6pKYQgVfkerXnZz53JWQ" alt="Banner"/></a>
-
 <h1 align="center">Hey Devs 👋, I'm <a href="https://github.com/lokeshdotdev">Lokesh Purohit</a> 🚀</h1>
 <h3 align="center">Full-Stack Enthusiast | Crafting Next-Level Web Apps with MERN & Next.js 🌟</h3>
 
@@ -87,7 +85,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshdotdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshdotdev&theme=radical&hide_border=true" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshdotdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
